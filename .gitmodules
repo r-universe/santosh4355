@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "TrackTrap"]
 	path = TrackTrap
-	url = https://github.com/cran/TrackTrap
+	url = https://github.com/santosh4355/tracktrap
